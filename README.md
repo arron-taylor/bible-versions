@@ -51,6 +51,10 @@ If you’d like to:
 
 …please open a PR or issue.
 
+If you're feeling generous and want to see this get completed, consider supporting me below ↓
+
+<a href="https://www.buymeacoffee.com/arrontaylor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ❤️ Acknowledgments
 
 Data was collected and structured to make Scripture easier to study, compare, and use in digital projects.
