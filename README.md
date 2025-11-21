@@ -23,30 +23,33 @@ Verses are stored in a consistent JSON structure:
 ```
 
 This structure makes it easy to:
-	•	Iterate through chapters or verses
-	•	Build Bible search tools
-	•	Compare translations
-	•	Feed data into apps, websites, or AI/NLP models
+
+- Iterate through chapters or verses
+- Build Bible search tools
+- Compare translations
+- Feed data into apps, websites, or AI/NLP models
 
 
-	•	✅ Top-level keys = Book names
-	•	✅ Second-level keys = Chapter numbers
-	•	✅ Third-level keys = Verse numbers
+- ✅ Top-level keys = Book names
+- ✅ Second-level keys = Chapter numbers
+- ✅ Third-level keys = Verse numbers
 
-🧠 Use Cases
-	•	Bible apps and APIs
-	•	AI and NLP text analysis
-	•	Theological research
-	•	Cross-version comparison tools
-	•	Verse similarity or embedding models
-	•	Scripture memorization apps
+## 🧠 Use Cases
+
+- Bible apps and APIs
+- AI and NLP text analysis
+- Theological research
+- Cross-version comparison tools
+- Verse similarity or embedding models
+- Scripture memorization apps
 
 🛠️ Contributing
 
 Pull requests are welcome! If you’d like to:
-	•	Add new versions
-	•	Fix formatting or verse issues
-	•	Improve data consistency
+
+- Add new versions
+- Fix formatting or verse issues
+- Improve data consistency
 
 …please open a PR or issue.
 
@@ -54,7 +57,7 @@ If you're feeling generous and want to see this get completed, consider supporti
 
 <a href="https://www.buymeacoffee.com/arrontaylor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-❤️ Acknowledgments
+## ❤️ Acknowledgments
 
 Data was collected and structured to make Scripture easier to study, compare, and use in digital projects.
 Special thanks to open Bible resources and the developer community for keeping these texts accessible.
