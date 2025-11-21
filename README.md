@@ -1,7 +1,7 @@
 # 📖 Bible Versions JSON Dataset
 
-A free, open-source collection of **35 complete English Bible versions** in **JSON format**, structured by book, chapter, and verse.  
-This is the **most comprehensive JSON dataset of complete English Bible translations** available, including popular versions like **NLT, NIV, NKJV, NASB, ESV, KJV, and more**.  
+A free, open-source collection of **35 English Bible versions** and **38 total languages** in **JSON format**, structured by book, chapter, and verse. Some versions include the **Full Bible**, while others are **New Testament only**.
+This is the **most comprehensive JSON dataset of English Bible translations** available, including popular versions like **NLT, NIV, NKJV, NASB, ESV, KJV, and more**.
 Each translation is stored as its own `.json` file for easy parsing, analysis, app development, or AI projects.
 
 ## 🗂️ Structure
@@ -43,8 +43,7 @@ This structure makes it easy to:
 
 🛠️ Contributing
 
-Pull requests are welcome!
-If you’d like to:
+Pull requests are welcome! If you’d like to:
 	•	Add new versions
 	•	Fix formatting or verse issues
 	•	Improve data consistency
