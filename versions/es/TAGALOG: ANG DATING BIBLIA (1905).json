@@ -14931,7 +14931,7 @@
       "17": "Gayon namatay si Job, na matanda at puspos ng mga kaarawan."
     }
   },
-  "Psalms": {
+  "Psalm": {
     "1": {
       "1": "Mapalad ang tao na hindi lumalakad sa payo ng masama, ni tumatayo man sa daan ng mga makasalanan, ni nauupo man sa upuan ng mga manglilibak.",
       "2": "Kundi ang kaniyang kasayahan ay nasa kautusan ng Panginoon; at sa kautusan niya nagbubulaybulay siya araw at gabi.",
@@ -25080,7 +25080,7 @@
       "6": "At kaniyang papagbabaliking-loob ang puso ng mga ama sa mga anak, at ang puso ng mga anak sa kanilang mga magulang; baka ako'y dumating at saktan ko ang lupa ng sumpa."
     }
   },
-  "Matthew": {
+  "Mateo": {
     "1": {
       "1": "Ang aklat ng lahi ni Jesucristo, na anak ni David, na anak ni Abraham.",
       "2": "Naging anak ni Abraham si Isaac; at naging anak ni Isaac si Jacob; at naging anak ni Jacob si Juda at ang kaniyang mga kapatid;",
@@ -26209,7 +26209,7 @@
       "20": "Na ituro ninyo sa kanila na kanilang ganapin ang lahat ng mga bagay na iniutos ko sa inyo: at narito, ako'y sumasa inyong palagi, hanggang sa katapusan ng sanglibutan."
     }
   },
-  "Mark": {
+  "Marcos": {
     "1": {
       "1": "Ang pasimula ng evangelio ni Jesucristo, ang Anak ng Dios.",
       "2": "Ayon sa pagkasulat kay Isaias na propeta, Narito, sinusugo ko ang aking sugo sa unahan ng iyong mukha, Na maghahanda ng iyong daan;",
@@ -26921,7 +26921,7 @@
       "20": "At nagsialis sila, at nagsipangaral sa lahat ng dako, na gumagawang kasama nila ang Panginoon, at pinatototohanan ang salita sa pamamagitan ng mga tandang kalakip. Siya nawa."
     }
   },
-  "Luke": {
+  "Lucas": {
     "1": {
       "1": "Yamang marami ang nagpilit mag-ayos ng isang kasaysayan noong mga bagay na naganap sa gitna natin,",
       "2": "Alinsunod sa ipinatalos sa atin nilang buhat sa pasimula ay mga saksing nangakakakita at mga ministro ng salita,",
@@ -28122,7 +28122,7 @@
       "53": "At palaging sila'y nasa templo, na nangagpupuri sa Dios."
     }
   },
-  "John": {
+  "Juan": {
     "1": {
       "1": "Nang pasimula siya ang Verbo, at ang Verbo ay sumasa Dios, at ang Verbo ay Dios.",
       "2": "Ito rin nang pasimula'y sumasa Dios.",
@@ -29045,7 +29045,7 @@
       "25": "At mayroon ding iba't ibang mga bagay na ginawa si Jesus, na kung susulating isa-isa, ay inaakala ko na kahit sa sanglibutan ay hindi magkakasiya ang mga aklat na susulatin."
     }
   },
-  "Acts": {
+  "Mga Gawa": {
     "1": {
       "1": "Ang unang kasaysayan na ginawa ko, Oh Teofilo, ay tungkol sa lahat na pinasimulang ginawa at itinuro ni Jesus,",
       "2": "Hanggang sa araw na tanggapin siya sa kaitaasan, pagkatapos na makapagbigay siya ng mga utos sa pamamagitan ng Espiritu Santo, sa mga apostol na kaniyang hinirang;",
@@ -30110,7 +30110,7 @@
       "31": "Na ipinangangaral ang kaharian ng Dios, at itinuturo ang mga bagay na nauukol sa Panginoong Jesucristo ng buong katapangan, wala sinomang nagbabawal sa kaniya."
     }
   },
-  "Romans": {
+  "Mga Taga-Roma": {
     "1": {
       "1": "Si Pablo na alipin ni Jesucristo, na tinawag na maging apostol, ibinukod sa evangelio ng Dios,",
       "2": "Na kaniyang ipinangako nang una sa pamamagitan ng kaniyang mga propeta sa mga banal na kasulatan,",
@@ -30577,7 +30577,7 @@
       "27": "Sa iisang Dios na marunong, sa pamamagitan ni Jesucristo, na sumasa kaniya ang kaluwalhatian magpakailan man. Siya nawa."
     }
   },
-  "1 Corinthians": {
+  "1 Mga Taga-Corinto": {
     "1": {
       "1": "Si Pablo, na tinawag na maging apostol ni Jesucristo sa pamamagitan ng kalooban ng Dios, at si Sostenes na ating kapatid,",
       "2": "Sa iglesia ng Dios na nasa Corinto, sa makatuwid baga'y sa mga pinapagingbanal kay Cristo Jesus, na tinawag na mangagbanal, na kasama ng lahat ng mga nagsisitawag sa bawa't dako, sa pangalan ng ating Panginoong Jesucristo, na kanila at ating Panginoon:",
@@ -31048,7 +31048,7 @@
       "24": "Ang aking pagibig kay Cristo Jesus ay sumainyo nawang lahat. Siya nawa."
     }
   },
-  "2 Corinthians": {
+  "2 Mga Taga-Corinto": {
     "1": {
       "1": "Si Pablo, na Apostol ni Cristo Jesus sa pamamagitan ng kalooban ng Dios, at si Timoteo, na ating kapatid sa Iglesia ng Dios na nasa Corinto, kalakip ng lahat ng mga banal na nasa buong Acaya.",
       "2": "Sumainyo nawa ang biyaya at kapayapaang mula sa Dios na ating Ama at sa Panginoong Jesucristo.",
@@ -31333,7 +31333,7 @@
       "14": "Ang biyaya ng Panginoong Jesucristo, at ang pagibig ng Dios, at ang pakikipisan ng Espiritu Santo ay sumainyo nawang lahat."
     }
   },
-  "Galatians": {
+  "Mga Taga-Galacia": {
     "1": {
       "1": "Si Pablo, na Apostol (hindi mula sa mga tao, ni sa pamamagitan man ng tao, kundi sa pamamagitan ni Jesucristo, at ng Dios Ama, na siyang sa kaniya'y muling bumuhay;)",
       "2": "At ang lahat ng mga kapatid na mga kasama ko, sa mga iglesia ng Galacia:",
@@ -31496,7 +31496,7 @@
       "18": "Mga kapatid, ang biyaya ng ating Panginoong Jesucristo ay sumainyo nawang espiritu. Siya nawa."
     }
   },
-  "Ephesians": {
+  "Mga Taga-Efeso": {
     "1": {
       "1": "Si Pablo, na apostol ni Cristo Jesus sa pamamagitan ng kalooban ng Dios, sa mga banal na nangasa Efeso, at sa mga tapat kay Cristo Jesus:",
       "2": "Sumainyo nawa ang biyaya at kapayapaang mula sa Dios na ating Ama at sa Panginoong Jesucristo.",
@@ -31665,7 +31665,7 @@
       "24": "Ang biyaya nawa'y sumalahat ng mga nagsisiibig sa ating Panginoong Jesucristo ng pagibig na walang pagkasira. Siya nawa."
     }
   },
-  "Philippians": {
+  "Mga Taga-Filipos": {
     "1": {
       "1": "Si Pablo at si Timoteo, na mga alipin ni Cristo Jesus, sa lahat ng mga banal kay Cristo Jesus na nangasa Filipos, pati ng mga obispo at ng mga diakono:",
       "2": "Sumainyo nawa ang biyaya at kapayapaang mula sa Dios na ating Ama at sa Panginoong Jesucristo.",
@@ -31779,7 +31779,7 @@
       "23": "Ang biyaya ng Panginoong Jesucristo ay sumainyo nawang espiritu."
     }
   },
-  "Colossians": {
+  "Mga Taga-Colosas": {
     "1": {
       "1": "Si Pablo, na apostol ni Jesucristo sa pamamagitan ng kalooban ng Dios, at ang kapatid nating si Timoteo,",
       "2": "Sa mga banal at tapat na mga kapatid kay Cristo, na nangasa sa Colosas: Sumainyo nawa ang biyaya at kapayapaang mula sa Dios na ating Ama.",
@@ -31884,7 +31884,7 @@
       "18": "Ang bating sinulat ng aking sariling kamay, akong si Pablo. Alalahanin ninyo ang aking mga tanikala. Ang biyaya'y sumasainyo nawa."
     }
   },
-  "1 Thessalonians": {
+  "1 Mga Taga-Tesalonica": {
     "1": {
       "1": "Si Pablo, at si Silvano, at si Timoteo, sa iglesia ng mga taga Tesalonica sa Dios Ama at sa Panginoong Jesucristo: Sumainyo nawa ang biyaya at kapayapaan.",
       "2": "Nangagpapasalamat kaming lagi sa Dios dahil sa inyong lahat, na aming binabanggit kayo sa aming mga panalangin;",
@@ -31985,7 +31985,7 @@
       "28": "Ang biyaya ng ating Panginoong Jesucristo ay sumainyo nawa."
     }
   },
-  "2 Thessalonians": {
+  "2 Mga Taga-Tesalonica": {
     "1": {
       "1": "Si Pablo, at si Silvano, at si Timoteo, sa iglesia ng mga taga Tesalonica na nasa Dios na ating Ama at sa Panginoong Jesucristo;",
       "2": "Sumainyo nawa ang biyaya at kapayapaang mula sa Dios Ama at sa Panginoong Jesucristo.",
@@ -32040,7 +32040,7 @@
       "18": "Ang biyaya ng ating Panginoong Jesucristo ay sumainyo nawang lahat."
     }
   },
-  "1 Timothy": {
+  "1 Kay Timoteo": {
     "1": {
       "1": "Si Pablo, na apostol ni Cristo Jesus ayon sa utos ng Dios na ating Tagapagligtas, at ni Cristo Jesus na ating pagasa;",
       "2": "Kay Timoteo na aking tunay na anak sa pananampalataya: Biyaya, kahabagan, at kapayapaan nawang mula sa Dios na Ama at kay Jesucristo na Panginoon natin.",
@@ -32167,7 +32167,7 @@
       "21": "Na palibhasa'y pinaniwalaan ng ilan ay nangasinsay tungkol sa pananampalataya. Ang biyaya ay sumainyo nawa."
     }
   },
-  "2 Timothy": {
+  "2 Kay Timoteo": {
     "1": {
       "1": "Si Pablo, na apostol ni Cristo Jesus sa pamamagitan ng kalooban ng Dios, ayon sa pangako ng buhay na nasa kay Cristo Jesus,",
       "2": "Kay Timoteo na aking minamahal na anak: Biyaya, kaawaan, kapayapaan nawang mula sa Dios Ama at kay Cristo Jesus na Panginoon natin.",
@@ -32260,7 +32260,7 @@
       "22": "Ang Panginoon nawa'y sumainyong espiritu. Ang biyaya nawa'y sumainyo."
     }
   },
-  "Titus": {
+  "Kay Tito": {
     "1": {
       "1": "Si Pablo, na alipin ng Dios, at apostol ni Jesucristo, ayon sa pananampalataya ng mga hinirang ng Dios, at sa pagkaalam ng katotohanan na ayon sa kabanalan,",
       "2": "Sa pagasa sa buhay na walang hanggan, na ipinangako ng Dios na di makapagsisinungaling buhat pa ng mga panahong walang hanggan;",
@@ -32314,7 +32314,7 @@
       "15": "Binabati ka ng lahat ng mga kasama ko. Batiin mo ang mga nagsisiibig sa atin sa pananampalataya. Biyaya ang sumainyo nawang lahat."
     }
   },
-  "Philemon": {
+  "Kay Filemon": {
     "1": {
       "1": "Si Pablo, na bilanggo ni Cristo Jesus, at si Timoteo na ating kapatid kay Filemon na aming minamahal at kamanggagawa,",
       "2": "At kay Apia na ating kapatid na babae, at kay Arquipo na kapuwa kawal namin, at sa iglesia sa iyong bahay:",
@@ -32343,7 +32343,7 @@
       "25": "Ang biyaya ng ating Panginoong Jesucristo ay sumainyo nawang espiritu. Siya nawa."
     }
   },
-  "Hebrews": {
+  "Hebreo": {
     "1": {
       "1": "Ang Dios, na nagsalita nang unang panahon sa ating mga magulang sa iba't ibang panahon at sa iba't ibang paraan sa pamamagitan ng mga propeta,",
       "2": "Ay nagsalita sa atin sa mga huling araw na ito sa pamamagitan, ng kaniyang Anak, na siyang itinalaga na tagapagmana ng lahat ng mga bagay, na sa pamamagitan naman niya'y ginawa ang sanglibutan;",
@@ -32674,7 +32674,7 @@
       "25": "Ang biyaya'y sumainyo nawang lahat. Siya nawa."
     }
   },
-  "James": {
+  "Santiago": {
     "1": {
       "1": "Si Santiago, na alipin ng Dios at ng Panginoon Jesucristo, ay bumabati sa labingdalawang angkan na nasa Pangangalat.",
       "2": "Mga kapatid ko, ariin ninyong buong kagalakan, kung kayo'y mangahulog sa sarisaring tukso;",
@@ -32794,7 +32794,7 @@
       "20": "Ay alamin nito na ang nagpapabalik-loob ng isang makasalanan, mula sa kamalian ng lakad niya ay magliligtas ng isang kaluluwa sa kamatayan, at magtatakip ng karamihang kasalanan."
     }
   },
-  "1 Peter": {
+  "1 Pedro": {
     "1": {
       "1": "Si Pedro, na apostol ni Jesucristo, sa mga hinirang na nangingibang bayan na nasa Pangangalat sa Ponto, Galacia, Capadocia, Asia at Bitinia,",
       "2": "Ayon sa paunang kaalaman ng Dios Ama, sa pagpabanal ng Espiritu, upang magsitalima at mangawisikan ng dugo ni Jesucristo: Biyaya at kapayapaan nawa ang sa inyo'y sumagana.",
@@ -32911,7 +32911,7 @@
       "14": "Mangagbatian kayo ng halik ng pagibig. Kapayapaan nawa ang sumainyong lahat na na kay Cristo."
     }
   },
-  "2 Peter": {
+  "2 Pedro": {
     "1": {
       "1": "Si Simon Pedro, na alipin at apostol ni Jesucristo, sa nagsipagkamit na kasama namin ng mahalagang pananampalataya sa katuwiran ng ating Dios at Tagapagligtas na si Jesucristo:",
       "2": "Biyaya at kapayapaan ang sa inyo'y dumami sa pagkakilala sa Dios at kay Jesus na Panginoon natin;",
@@ -32980,7 +32980,7 @@
       "18": "Datapuwa't magsilago kayo sa biyaya at sa pagkakilala sa ating Panginoon at Tagapagligtas na si Jesucristo. Sumakaniya nawa ang kaluwalhatian ngayon at magpakailan man. Siya nawa."
     }
   },
-  "1 John": {
+  "1 Juan": {
     "1": {
       "1": "Yaong buhat sa pasimula, yaong aming narinig, yaong nakita ng aming mga mata, yaong aming namasdan, at nahipo ng aming mga kamay, tungkol sa salita ng buhay;",
       "2": "(At ang buhay ay nahayag, at aming nakita, at pinatotohanan, at sa inyo'y aming ibinabalita ang buhay, ang buhay na walang hanggan, na kasama ng Ama at sa atin ay nahayag);",
@@ -33097,7 +33097,7 @@
       "21": "Mga anak ko, mangagingat kayo sa mga diosdiosan."
     }
   },
-  "2 John": {
+  "2 Juan": {
     "1": {
       "1": "Ang matanda sa hirang na ginang at sa kaniyang mga anak, na aking iniibig sa katotohanan; at hindi lamang ako, kundi pati ng lahat ng mga nakakakilala ng katotohanan;",
       "2": "Alangalang sa katotohanan na nananahan sa atin, at sasa atin magpakailan man:",
@@ -33114,7 +33114,7 @@
       "13": "Ang mga anak ng iyong hirang na kapatid na babae ay bumabati sa iyo."
     }
   },
-  "3 John": {
+  "3 Juan": {
     "1": {
       "1": "Ang matanda, kay Gayo na minamahal, na aking iniibig sa katotohanan.",
       "2": "Minamahal, aking idinadalangin na sa lahat ng mga bagay ay guminhawa ka at bumuti ang iyong katawan, na gaya ng pagginhawa ng iyong kaluluwa.",
@@ -33132,7 +33132,7 @@
       "14": "Datapuwa't inaasahan kong makita kang madali, at tayo'y magkakausap ng mukhaan. Ang kapayapaa'y sumainyo nawa. Binabati ka ng mga kaibigan. Batiin mo ang mga kaibigan sa pangalan."
     }
   },
-  "Jude": {
+  "Judas": {
     "1": {
       "1": "Si Judas, na alipin ni Jesucristo, at kapatid ni Santiago, sa mga tinawag, na minamahal sa Dios Ama, at iniingatang para kay Jesucristo:",
       "2": "Kaawaan at kapayapaan at pagibig ang sa inyo nawa'y paramihin.",
@@ -33161,7 +33161,7 @@
       "25": "Sa iisang Dios na ating Tagapagligtas, sa pamamagitan ni Jesucristo na ating Panginoon, ay sumakaniya nawa ang kaluwalhatian, ang karangalan, ang paghahari, at ang kapangyarihan, sa kaunaunahang panahon, at ngayon at magpakailan man. Siya nawa."
     }
   },
-  "Revelation": {
+  "Pahayag": {
     "1": {
       "1": "Ang Apocalipsis ni Jesucristo, na ibinigay ng Dios sa kaniya upang ipahayag sa kaniyang mga alipin, sa makatuwid ay ang mga bagay na nararapat mangyaring madali: at kaniyang ipinadala at ipinaalam sa pamamagitan ng kaniyang anghel sa kaniyang alipin na si Juan;",
       "2": "Na sumaksi sa salita ng Dios, at sa patotoo ni Jesucristo, sa lahat ng mga bagay na nakita niya.",
