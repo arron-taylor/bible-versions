@@ -22,8 +22,6 @@ Verses are stored in a consistent JSON structure:
 }
 ```
 
-[INSERT CODE SNIPPET HERE manually]
-
 This structure makes it easy to:
 
 - Iterate through chapters or verses
