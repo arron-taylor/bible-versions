@@ -6,14 +6,15 @@
    - Download from [python.org](https://www.python.org/downloads/)
    - Requires Python 3.7 or higher
 
-2. **Install dependencies**:
+2. **Install the project**:
+  In the root folder of the repository install the project with the following command:
    ```bash
-   pip install -r requirements.txt
+   pip install -e .
    ```
 
 3. **Run the scraper**:
    ```bash
-   python scraping/english/bible_scraper.py --output bible_data.json
+   bible-scraper --output bible_data.json
    ```
 
 That's it! The script will start scraping and save to `bible_data.json`.
@@ -23,7 +24,7 @@ That's it! The script will start scraping and save to `bible_data.json`.
 Once you've verified it works, run the full scrape:
 
 ```bash
-python scraping/english/bible_scraper.py --output bible_data.json
+bible-scraper --output bible_data.json
 ```
 
 **Time estimate**: 8-10 hours for all 22 versions
@@ -47,7 +48,7 @@ As it scrapes, the script saves a local copy of each verse page HTML under `html
 Just run with the `--resume` flag:
 
 ```bash
-python scraping/english/bible_scraper.py --resume --output bible_data.json
+bible-scraper --resume --output bible_data.json
 ```
 
 It will continue where it left off!
@@ -57,7 +58,7 @@ It will continue where it left off!
 After `bible_data.json` is complete, you can split it into one file per translation:
 
 ```bash
-python scraping/english/english_new/separate_versions.py --input bible_data.json --output-dir versions
+separate-versions --input bible_data.json --output-dir versions
 ```
 
 This creates `versions/` with files like `NIV.json`, `KJV.json`, etc.
