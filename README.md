@@ -103,4 +103,4 @@ Pull requests are welcome! If you’d like to:
 ## ❤️ Acknowledgments
 
 Data was collected and structured to make Scripture easier to study, compare, and use in digital projects.
-Special thanks to open Bible resources and the developer community for keeping these texts accessible.
+Special thanks to open Bible resources and the developer community for keeping these texts accessible. #
